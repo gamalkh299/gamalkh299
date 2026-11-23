@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gamal%20Khaled&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Enterprise%20%26%20FinTech%20Systems&descSize=18&descAlignY=60" width="100%" alt="Gamal Khaled — Full-Stack Developer, Enterprise & FinTech Systems"/>
+<img src="assets/header.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Enterprise & FinTech Systems"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+turn+complex+business+processes+into+reliable+software;Enterprise+platforms+%E2%80%A2+Financial+systems+%E2%80%A2+AI+apps;6%2B+years+shipping+production+systems" alt="I turn complex business processes into reliable software"/></a>
@@ -69,4 +69,4 @@ Have a platform to build, a system to modernize, or a role to fill? I'd love to 
   <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-gamalkh299%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
