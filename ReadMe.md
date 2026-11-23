@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Government, Enterprise & FinTech Systems"/>
 
 <p align="center">
-  <b>Full-Stack Developer &amp; Team Lead</b> · 6+ years · Dubai, UAE<br/>
+  <b>Full-Stack Developer</b> · 6+ years · Dubai, UAE<br/>
   Building Arabic-first government and financial platforms with Django, Laravel and Next.js
 </p>
 
@@ -16,7 +16,7 @@
 
 ### About
 
-Full-stack developer and team lead with **6+ years** delivering secure, scalable systems for **government, fintech, e-commerce, and healthcare**. I currently lead development of government digital-transformation systems at the **Crown Prince's Office in Fujairah**, specializing in Arabic-first bilingual applications with Django backends and Next.js frontends.
+Full-stack developer with **6+ years** delivering secure, scalable systems for **government, fintech, e-commerce, and healthcare**. I currently lead development of government digital-transformation systems at the **Crown Prince's Office in Fujairah**, specializing in Arabic-first bilingual applications with Django backends and Next.js frontends.
 
 **Strengths:** system architecture & microservices · UAE Pass / OAuth2 SSO · AI integration (Arabic speech-to-text, summarization) · Arabic RTL interfaces · leading and mentoring backend teams
 
