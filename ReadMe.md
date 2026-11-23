@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gamal%20Khaled&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Co-Founder%20of%20Spider%20Tech%20Co.&descSize=18&descAlignY=60" width="100%" alt="Gamal Khaled — Backend Developer, Co-Founder of Spider Tech Co."/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gamal%20Khaled&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Gamal Khaled — Full-Stack Developer"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Scalable+APIs+%26+system+architecture;Fintech+%E2%80%A2+E-commerce+%E2%80%A2+Healthcare;75%2B+projects+delivered+for+130%2B+clients;6%2B+years+building+backends+that+last" alt="Typing intro"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+developer+%E2%80%A2+6%2B+years;Enterprise+%26+financial-sector+platforms;AI-powered+and+real-time+applications;Laravel+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+Next.js" alt="Typing intro"/></a>
 </p>
 
 <p align="center">
@@ -13,51 +13,36 @@
 
 ## 👋 About Me
 
-I'm a backend developer and co-founder of **Spider Tech Co.** with **6+ years** of hands-on experience building scalable, secure, and efficient systems for fintech, e-commerce, healthcare, real estate, education, and marketing.
+I'm a **full-stack developer** with **6+ years** of experience building enterprise platforms, financial-sector systems, and AI-powered, real-time applications, from database design and APIs through to the frontend.
 
 ```php
 $gamal = [
-    'role'      => 'Backend Developer & Co-Founder @ Spider Tech Co.',
-    'experience'=> '6+ years',
-    'focus'     => ['APIs', 'System Architecture', 'Security', 'Cloud'],
-    'delivered' => '75+ projects for 130+ clients',
-    'currently' => 'Building AI-powered and real-time applications',
+    'role'       => 'Full-Stack Developer',
+    'experience' => '6+ years',
+    'backend'    => ['Laravel', 'Django', 'Node.js'],
+    'frontend'   => ['Next.js', 'Vue', 'JavaScript'],
+    'focus'      => ['Enterprise systems', 'Financial sector', 'AI & real-time'],
 ];
 ```
 
-## 🚀 What I Do
+## 🚀 What I Build
 
 | | |
 |---|---|
-| 🔧 **Backend Development** | RESTful APIs, microservices, and complex system architectures |
-| ⚙️ **System Architecture** | Scalable, maintainable designs from day one |
-| 🗃️ **Databases** | Complex data relationships, query optimization, performance tuning |
-| ☁️ **Cloud** | Deploying and scaling on AWS, Azure, and DigitalOcean |
-| 🔒 **Security & Compliance** | Encryption, authentication, authorization, HIPAA-compliant systems |
-| 💬 **Project Leadership** | Taking projects from planning to launch with clear client communication |
+| 🏢 **Enterprise Systems** | Strategy & KPI management, initiative tracking, consulting and project management platforms with role-based dashboards and reporting |
+| 🏦 **Financial Sector** | Unified performance, innovation, and QMS platforms for financial institutions; secure payment integrations with banks such as Riyadh Bank and Al Rajhi Bank |
+| 🤖 **AI & Real-Time** | OpenAI / LangChain-powered features, real-time chat with WebSockets and Laravel Reverb |
+| 🛒 **E-commerce** | Large-scale platforms with real-time order tracking, payment gateways, and inventory management |
+| 🏥 **Healthcare** | HIPAA-compliant systems with careful handling and encryption of sensitive data |
+| 🌐 **Full-Stack Web** | Bilingual websites and web apps with Next.js or Vue on the front and Laravel or Django on the back |
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,flask,js,nodejs,express,cs,cpp&perline=10" alt="Languages and frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,flask,nodejs,express&perline=10" alt="Backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,vue,html,css&perline=10" alt="Frontend"/><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=10" alt="Databases"/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku,docker,nginx,jenkins,githubactions,git,gitlab,postman&perline=11" alt="Cloud and DevOps"/>
-</p>
-
-## 💼 Industry Experience
-
-- 💳 **Fintech:** Secure payment systems integrated with banking APIs and providers such as Riyadh Bank and Rajhi Bank.
-- 🛒 **E-commerce:** Large-scale platforms with real-time order tracking, payment gateways, and inventory management.
-- 🏥 **Healthcare:** HIPAA-compliant systems with careful handling and encryption of sensitive data.
-- 🏢 **And more:** Real estate, education, marketing, and enterprise management systems.
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B%20years-36BCF7?style=for-the-badge" alt="6+ years experience"/>
-  <img src="https://img.shields.io/badge/Projects-75%2B%20delivered-2c5364?style=for-the-badge" alt="75+ projects delivered"/>
-  <img src="https://img.shields.io/badge/Clients-130%2B-203a43?style=for-the-badge" alt="130+ clients"/>
-  <img src="https://img.shields.io/badge/Ops%20cost-%E2%88%9270%25-0f2027?style=for-the-badge" alt="Operational costs reduced by 70%"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,nginx,githubactions,git,gitlab,postman&perline=10" alt="Cloud and DevOps"/>
 </p>
 
 ## 📌 Featured Projects
@@ -71,7 +56,7 @@ $gamal = [
 
 ## 🔄 How I Work
 
-**Consult** → **Plan & architect** → **Build clean code** → **Test & QA** → **Deploy via CI/CD** → **Support & optimize**
+**Understand the need** → **Plan & architect** → **Build clean code** → **Test & QA** → **Deploy via CI/CD** → **Support & optimize**
 
 ## 📊 GitHub Stats
 
@@ -85,6 +70,6 @@ $gamal = [
 
 ## 🤝 Let's Collaborate
 
-Looking for a robust backend or someone to guide your project to success? [Reach out on LinkedIn](https://linkedin.com/in/gamalkh299). I'm always happy to talk.
+Need a full-stack developer for an enterprise platform, a financial system, or an AI-powered app? [Reach out on LinkedIn](https://linkedin.com/in/gamalkh299). I'm always happy to talk.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
