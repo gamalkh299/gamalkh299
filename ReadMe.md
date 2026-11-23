@@ -1,64 +1,55 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gamal%20Khaled&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Gamal Khaled — Full-Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gamal%20Khaled&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Enterprise%20%26%20FinTech%20Systems&descSize=18&descAlignY=60" width="100%" alt="Gamal Khaled — Full-Stack Developer, Enterprise & FinTech Systems"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+developer+%E2%80%A2+6%2B+years;Enterprise+%26+financial-sector+platforms;AI-powered+and+real-time+applications;Laravel+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+Next.js" alt="Typing intro"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+turn+complex+business+processes+into+reliable+software;Enterprise+platforms+%E2%80%A2+Financial+systems+%E2%80%A2+AI+apps;6%2B+years+shipping+production+systems" alt="I turn complex business processes into reliable software"/></a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Full--time-2ea44f?style=for-the-badge" alt="Open to freelance and full-time work"/>
+</p>
+
+<p align="center">
+  <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Email-gamalkh299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/gamalkh299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/gamalkh299"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://facebook.com/gamalkh299"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/gamalkh299"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## 👋 About Me
+---
 
-I'm a **full-stack developer** with **6+ years** of experience building enterprise platforms, financial-sector systems, and AI-powered, real-time applications, from database design and APIs through to the frontend.
+### About
 
-```php
-$gamal = [
-    'role'       => 'Full-Stack Developer',
-    'experience' => '6+ years',
-    'backend'    => ['Laravel', 'Django', 'Node.js'],
-    'frontend'   => ['Next.js', 'Vue', 'JavaScript'],
-    'focus'      => ['Enterprise systems', 'Financial sector', 'AI & real-time'],
-];
-```
+I'm a **full-stack developer with 6+ years of experience** designing and building the systems organizations run on: strategy and performance platforms, financial-sector solutions, and AI-powered, real-time applications.
 
-## 🚀 What I Build
+I work across the whole stack, from data modeling and secure APIs to clean, bilingual interfaces, and I care about software that is **secure, maintainable, and built to scale**.
+
+### What I Deliver
 
 | | |
 |---|---|
-| 🏢 **Enterprise Systems** | Strategy & KPI management, initiative tracking, consulting and project management platforms with role-based dashboards and reporting |
-| 🏦 **Financial Sector** | Unified performance, innovation, and QMS platforms for financial institutions; secure payment integrations with banks such as Riyadh Bank and Al Rajhi Bank |
-| 🤖 **AI & Real-Time** | OpenAI / LangChain-powered features, real-time chat with WebSockets and Laravel Reverb |
-| 🛒 **E-commerce** | Large-scale platforms with real-time order tracking, payment gateways, and inventory management |
-| 🏥 **Healthcare** | HIPAA-compliant systems with careful handling and encryption of sensitive data |
-| 🌐 **Full-Stack Web** | Bilingual websites and web apps with Next.js or Vue on the front and Laravel or Django on the back |
+| **Enterprise Platforms** | Strategy & KPI management, initiative tracking, consulting and project management systems with role-based dashboards and reporting |
+| **Financial Sector** | Unified performance, innovation, and QMS platforms for financial institutions; secure bank and payment-gateway integrations |
+| **AI & Real-Time** | OpenAI / LangChain-powered features, live chat and notifications over WebSockets and Laravel Reverb |
+| **E-commerce** | High-traffic stores with payment gateways, real-time order tracking, and inventory management |
+| **Healthcare** | HIPAA-compliant systems with encrypted, carefully controlled sensitive data |
+| **Web Products** | Fast, bilingual (Arabic / English) websites and web apps, from first idea to production |
 
-## 🛠 Tech Stack
+### Why Work With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,flask,nodejs,express&perline=10" alt="Backend"/><br/>
-  <img src="https://skillicons.dev/icons?i=js,nextjs,vue,html,css&perline=10" alt="Frontend"/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=10" alt="Databases"/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,nginx,githubactions,git,gitlab,postman&perline=10" alt="Cloud and DevOps"/>
-</p>
+- **End-to-end ownership.** I take a project from requirements and architecture to deployment and long-term support.
+- **Security first.** Authentication, authorization, and encryption are designed in, not bolted on.
+- **Built to last.** Clean architecture, tests, and CI/CD so the system keeps working as it grows.
+- **Clear communication.** I translate business needs into technical plans and keep stakeholders in the loop.
 
-## 📌 Featured Projects
+### Tech Stack
 
 <p align="center">
-  <a href="https://github.com/gamalkh299/realtime-ai-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=realtime-ai-chat&theme=shadow_blue&hide_border=true" alt="realtime-ai-chat"/></a>
-  <a href="https://github.com/gamalkh299/gpt-content-reviewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=gpt-content-reviewer&theme=shadow_blue&hide_border=true" alt="gpt-content-reviewer"/></a>
-  <a href="https://github.com/gamalkh299/Reverb-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=Reverb-chat&theme=shadow_blue&hide_border=true" alt="Reverb-chat"/></a>
-  <a href="https://github.com/gamalkh299/old-innovation-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=old-innovation-platform&theme=shadow_blue&hide_border=true" alt="old-innovation-platform"/></a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,flask,nodejs,express&perline=10" alt="Backend: PHP, Laravel, Python, Django, Flask, Node.js, Express"/><br/>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,vue,html,css&perline=10" alt="Frontend: JavaScript, Next.js, Vue, HTML, CSS"/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=10" alt="Databases: MySQL, PostgreSQL, MongoDB, Redis, Firebase"/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,nginx,githubactions,git,gitlab,postman&perline=10" alt="Cloud and DevOps: AWS, Azure, Cloudflare, Docker, Nginx, GitHub Actions, Git, GitLab, Postman"/>
 </p>
 
-## 🔄 How I Work
-
-**Understand the need** → **Plan & architect** → **Build clean code** → **Test & QA** → **Deploy via CI/CD** → **Support & optimize**
-
-## 📊 GitHub Stats
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gamalkh299&theme=shadow_blue&hide_border=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
@@ -68,8 +59,14 @@ $gamal = [
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamalkh299&theme=shadow_blue&hide_border=true" alt="GitHub streak"/>
 </p>
 
-## 🤝 Let's Collaborate
+<sub>Most of my client work is confidential, so it lives in private repositories.</sub>
 
-Need a full-stack developer for an enterprise platform, a financial system, or an AI-powered app? [Reach out on LinkedIn](https://linkedin.com/in/gamalkh299). I'm always happy to talk.
+### Let's Work Together
+
+Have a platform to build, a system to modernize, or a role to fill? I'd love to hear about it.
+
+<p align="center">
+  <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-gamalkh299%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email"/></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
