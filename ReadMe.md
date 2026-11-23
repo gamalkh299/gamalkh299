@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Government, Enterprise & FinTech Systems"/>
+<img src="assets/banner.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Government, Enterprise & FinTech Systems"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+turn+complex+business+processes+into+reliable+software;Government+%E2%80%A2+Enterprise+%E2%80%A2+Financial+systems;6%2B+years+shipping+production+systems" alt="I turn complex business processes into reliable software"/></a>
