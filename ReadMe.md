@@ -52,12 +52,15 @@ Full-stack developer and team lead with **6+ years** delivering secure, scalable
 
 ### Education
 
-**B.Sc. Computer Science**, Mansoura University (2019 – 2023) · Back-End Diplomas: CCIC (2021), Smart Code Academy (2020)
-
-**Languages:** Arabic · English
+<img src="assets/education.svg" width="100%" alt="Education: B.Sc. Computer Science, Mansoura University (2019 to 2023). Back-End Development diplomas from CCIC (2021) and Smart Code Academy (2020). Languages: Arabic, English."/>
 
 ### Contact
 
-Hiring for a government, fintech, or enterprise platform? Email **[gamalkh299@gmail.com](mailto:gamalkh299@gmail.com)** or message me on [LinkedIn](https://linkedin.com/in/gamalkh299).
+<a href="mailto:gamalkh299@gmail.com"><img src="assets/contact.svg" width="100%" alt="Let's build something reliable together. Email gamalkh299@gmail.com"/></a>
+
+<p align="center">
+  <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Email%20me-36BCF7?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email me"/></a>
+  <a href="https://linkedin.com/in/gamalkh299"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+</p>
 
 <img src="assets/footer.svg" width="100%" alt=""/>

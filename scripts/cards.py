@@ -107,9 +107,51 @@ def projects():
     return svg(h, "".join(body))
 
 
+EDUCATION = [
+    ("DEGREE", "B.Sc. Computer Science", "Mansoura University", "2019 – 2023"),
+    ("DIPLOMA", "Back-End Development", "CCIC", "2021"),
+    ("DIPLOMA", "Back-End Development", "Smart Code Academy", "2020"),
+]
+LANGUAGES = ["Arabic", "English"]
+
+
+def education():
+    pad, gap, ch = 20, 16, 112
+    cw = (W - pad * 2 - gap * 2) // 3
+    h = pad * 2 + ch + 52
+    body = []
+    for i, (kind, title, school, years) in enumerate(EDUCATION):
+        x = pad + i * (cw + gap)
+        main = i == 0
+        body.append(f'<rect x="{x}" y="{pad}" width="{cw}" height="{ch}" rx="10" fill="{CARD}" stroke="{ACCENT if main else BORDER}"/>')
+        body.append(f'<text x="{x + 18}" y="{pad + 28}" font-size="11" font-weight="700" letter-spacing="1" fill="{ACCENT}">{kind}</text>')
+        body.append(f'<text x="{x + cw - 18}" y="{pad + 28}" text-anchor="end" font-size="12" font-weight="600" fill="{MUTED}">{esc(years)}</text>')
+        body.append(f'<text x="{x + 18}" y="{pad + 58}" font-size="16" font-weight="700" fill="{TEXT}">{esc(title)}</text>')
+        body.append(f'<text x="{x + 18}" y="{pad + 84}" font-size="13" fill="{MUTED}">{esc(school)}</text>')
+    y = pad + ch + 22
+    body.append(f'<text x="{pad}" y="{y + 15}" font-size="11" font-weight="700" letter-spacing="1" fill="{ACCENT}">LANGUAGES</text>')
+    body.append(chips(pad + 92, y, LANGUAGES, strong=True))
+    return svg(h, "".join(body))
+
+
+def contact():
+    h = 150
+    body = [
+        '<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0f2027"/>'
+        '<stop offset=".5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/></linearGradient></defs>',
+        f'<rect x="1" y="1" width="{W - 2}" height="{h - 2}" rx="12" fill="url(#g)" stroke="{ACCENT}" stroke-opacity=".5"/>',
+        f'<text x="{W / 2}" y="52" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">Let&#39;s build something reliable together</text>',
+        f'<text x="{W / 2}" y="80" text-anchor="middle" font-size="14" fill="#c9d1d9">Government · FinTech · Enterprise platforms  —  open to freelance &amp; full-time</text>',
+        f'<rect x="{W / 2 - 120}" y="98" width="240" height="34" rx="17" fill="{ACCENT}"/>',
+        f'<text x="{W / 2}" y="120" text-anchor="middle" font-size="14" font-weight="700" fill="#0d1117">gamalkh299@gmail.com  →</text>',
+    ]
+    return svg(h, "".join(body))
+
+
 if __name__ == "__main__":
     out = Path(__file__).resolve().parent.parent / "assets"
-    for name, content in (("experience.svg", experience()), ("projects.svg", projects())):
+    for name, content in (("experience.svg", experience()), ("projects.svg", projects()),
+                          ("education.svg", education()), ("contact.svg", contact())):
         minidom.parseString(content)  # self-check: fails loudly on invalid XML (the bug that broke the banner)
         (out / name).write_text(content, encoding="utf-8")
         print("wrote", out / name)
