@@ -52,6 +52,10 @@ I work across the whole stack, from data modeling and secure APIs to clean, bili
 ### GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamalkh299&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=Contributions%20(public%20%2B%20private)" width="100%" alt="Contribution activity graph, including private repositories"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gamalkh299&theme=shadow_blue&hide_border=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamalkh299&theme=shadow_blue&hide_border=true&layout=compact" height="165" alt="Top languages"/>
 </p>
@@ -59,7 +63,7 @@ I work across the whole stack, from data modeling and secure APIs to clean, bili
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamalkh299&theme=shadow_blue&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<sub>Most of my client work is confidential, so it lives in private repositories.</sub>
+<sub>Most of my client work is confidential, so it lives in private repositories. The activity above includes those private contributions.</sub>
 
 ### Let's Work Together
 
