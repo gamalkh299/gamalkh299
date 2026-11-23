@@ -1,15 +1,13 @@
 <img src="assets/banner.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Government, Enterprise & FinTech Systems"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+turn+complex+business+processes+into+reliable+software;Government+%E2%80%A2+Enterprise+%E2%80%A2+Financial+systems;6%2B+years+shipping+production+systems" alt="I turn complex business processes into reliable software"/></a>
+  <b>Full-Stack Developer &amp; Team Lead</b> · 6+ years · Dubai, UAE<br/>
+  Building Arabic-first government and financial platforms with Django, Laravel and Next.js
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Full--time-2ea44f?style=for-the-badge" alt="Open to freelance and full-time work"/>
-</p>
-
-<p align="center">
-  <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Email-gamalkh299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/gamalkh299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/gamalkh299"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
@@ -18,36 +16,51 @@
 
 ### About
 
-I'm a **full-stack developer with 6+ years of experience** designing and building the systems organizations run on: digital platforms for government entities, strategy and performance systems, financial-sector solutions, and AI-powered, real-time applications.
+Full-stack developer and team lead with **6+ years** delivering secure, scalable systems for **government, fintech, e-commerce, and healthcare**. I currently lead development of government digital-transformation systems at the **Crown Prince's Office in Fujairah**, specializing in Arabic-first bilingual applications with Django backends and Next.js frontends.
 
-I work across the whole stack, from data modeling and secure APIs to clean, bilingual interfaces, and I care about software that is **secure, maintainable, and built to scale**.
+**Strengths:** system architecture & microservices · UAE Pass / OAuth2 SSO · AI integration (Arabic speech-to-text, summarization) · Arabic RTL interfaces · leading and mentoring backend teams
 
-### What I Deliver
+### Experience
 
-| | |
+**Full-Stack Developer** · Adaa Consulting → Crown Prince's Office, Fujairah · *2025 – present*
+- Leading development of **Tarasol**, a government platform for official correspondence, meetings, decisions, and task tracking.
+- Architected microservices including **UAE Pass SSO**, correspondence, and meeting-management modules (Django REST Framework + Next.js 14 / TypeScript).
+- Built **AI meeting transcription & summarization** with Arabic speech-to-text and speaker diarization (Groq Whisper).
+- Delivered real-time document co-editing on official templates via **WOPI / OnlyOffice**; run PostgreSQL, Redis, Docker, and CI/CD for multi-service deployment.
+
+**Backend Developer** · Websters.ae · *2025*
+- Customized Twill CMS for a GCC home-services platform; improved Lighthouse scores for performance, SEO, and accessibility; extended ASP.NET APIs.
+
+**Backend Developer** · LOT.SA (remote) · *2024 – 2025*
+- Built an IT ticketing system with real-time updates; managed WHM servers and Cloudflare security, DNS, and DDoS protection.
+
+**Backend Developer** · Spider Tech Co. · *2021 – 2024*
+- Delivered fintech, e-commerce, and healthcare projects (including HIPAA-compliant systems); **cut query execution times by 30%** through database optimization.
+
+**Backend Team Lead** · Beseech Co. · *2023*
+- Led **5 developers** on a fintech platform's backend architecture; **improved transaction processing speed by 30%**.
+
+<sub>Earlier: backend developer at 4th Pyramids Co. and freelance (2020): e-commerce backends and payment-gateway integrations.</sub>
+
+### Selected Projects
+
+| Project | What I did |
 |---|---|
-| **Government Sector** | Digital platforms for government entities: strategic planning and performance management, KPI and initiative tracking, innovation programs, and quality management, with Arabic / English interfaces, role-based access, and executive dashboards |
-| **Enterprise Platforms** | Strategy & KPI management, initiative tracking, consulting and project management systems with role-based dashboards and reporting |
-| **Financial Sector** | Unified performance, innovation, and QMS platforms for financial institutions; secure bank and payment-gateway integrations |
-| **AI & Real-Time** | OpenAI / LangChain-powered features, live chat and notifications over WebSockets and Laravel Reverb |
-| **E-commerce** | High-traffic stores with payment gateways, real-time order tracking, and inventory management |
-| **Healthcare** | HIPAA-compliant systems with encrypted, carefully controlled sensitive data |
-| **Web Products** | Fast, bilingual (Arabic / English) websites and web apps, from first idea to production |
+| **Tarasol** · Government, UAE | Correspondence & meetings platform with Arabic RTL, UAE Pass SSO, AI transcription, and OnlyOffice collaboration |
+| **Real-estate investment platform** · Saudi Arabia | Led the backend team; integrated government and banking services: Absher, Riyadh Bank B2B (MT940), Zoho Books |
+| **Standing Committee on International Law** · Saudi Arabia | Official government website; led backend development |
+| **Eyadda** · Healthcare | Platform connecting doctors, patients, hospitals, and labs around centralized health records (Laravel) |
+| **Premium Ticket** · Events | Event-ticketing platform; led the backend team and third-party integrations |
 
-### Why Work With Me
-
-- **End-to-end ownership.** I take a project from requirements and architecture to deployment and long-term support.
-- **Security first.** Authentication, authorization, and encryption are designed in, not bolted on.
-- **Built to last.** Clean architecture, tests, and CI/CD so the system keeps working as it grows.
-- **Clear communication.** I translate business needs into technical plans and keep stakeholders in the loop.
+<sub>Most of this work is under NDA, so the code lives in private repositories.</sub>
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,flask,nodejs,express&perline=10" alt="Backend: PHP, Laravel, Python, Django, Flask, Node.js, Express"/><br/>
-  <img src="https://skillicons.dev/icons?i=js,nextjs,vue,html,css&perline=10" alt="Frontend: JavaScript, Next.js, Vue, HTML, CSS"/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=10" alt="Databases: MySQL, PostgreSQL, MongoDB, Redis, Firebase"/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,nginx,githubactions,git,gitlab,postman&perline=10" alt="Cloud and DevOps: AWS, Azure, Cloudflare, Docker, Nginx, GitHub Actions, Git, GitLab, Postman"/>
+  <img src="https://skillicons.dev/icons?i=py,django,flask,php,laravel,nodejs,dotnet&perline=12" alt="Backend: Python, Django, Flask, PHP, Laravel, Node.js, .NET"/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&perline=12" alt="Frontend: TypeScript, JavaScript, React, Next.js, Tailwind CSS"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=12" alt="Databases: PostgreSQL, MySQL, MongoDB, Redis"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,nginx,githubactions,cloudflare,git,postman&perline=12" alt="DevOps: Docker, AWS, Azure, Nginx, GitHub Actions, Cloudflare, Git, Postman"/>
 </p>
 
 ### GitHub Activity
@@ -58,20 +71,17 @@ I work across the whole stack, from data modeling and secure APIs to clean, bili
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gamalkh299&theme=shadow_blue&hide_border=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamalkh299&theme=shadow_blue&hide_border=true&layout=compact" height="165" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamalkh299&theme=shadow_blue&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamalkh299&theme=shadow_blue&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
-<sub>Most of my client work is confidential, so it lives in private repositories. The activity above includes those private contributions.</sub>
+### Education
 
-### Let's Work Together
+**B.Sc. Computer Science**, Mansoura University (2019 – 2023) · Back-End Diplomas: CCIC (2021), Smart Code Academy (2020)
 
-Have a government or enterprise platform to build, a system to modernize, or a role to fill? I'd love to hear about it.
+**Languages:** Arabic · English
 
-<p align="center">
-  <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-gamalkh299%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email"/></a>
-</p>
+### Contact
+
+Hiring for a government, fintech, or enterprise platform? Email **[gamalkh299@gmail.com](mailto:gamalkh299@gmail.com)** or message me on [LinkedIn](https://linkedin.com/in/gamalkh299).
 
 <img src="assets/footer.svg" width="100%" alt=""/>
