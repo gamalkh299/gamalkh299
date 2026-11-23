@@ -1,85 +1,90 @@
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gamal%20Khaled&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Co-Founder%20of%20Spider%20Tech%20Co.&descSize=18&descAlignY=60" width="100%" alt="Gamal Khaled — Backend Developer, Co-Founder of Spider Tech Co."/>
 
-Hi, I'm Gamal Khaled 👋
-Backend Developer & Co-Founder of Spider Tech Co.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Scalable+APIs+%26+system+architecture;Fintech+%E2%80%A2+E-commerce+%E2%80%A2+Healthcare;75%2B+projects+delivered+for+130%2B+clients;6%2B+years+building+backends+that+last" alt="Typing intro"/></a>
+</p>
 
-With over 4 years of hands-on experience, I've built powerful backend solutions across various industries such as fintech, e-commerce, medical fields, and more. I aim to create scalable, secure, and efficient systems that solve real-world problems.
+<p align="center">
+  <a href="https://linkedin.com/in/gamalkh299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/gamalkh299"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://facebook.com/gamalkh299"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/gamalkh299"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-## 💼 What I Do
+## 👋 About Me
 
-- 🔧 **Backend Development:** Proficient in building RESTful APIs, microservices, and complex system architectures.
-- ⚙️ **System Architecture:** Skilled in designing and implementing scalable, maintainable architectures.
-- 🗃️ **Database Management:** Experienced in handling complex data relationships, query optimizations, and performance tuning.
-- 🚀 **Cloud Integration:** Expertise in deploying and scaling applications using cloud platforms (AWS, Azure, etc.).
-- 🔒 **Security & Compliance:** Strong focus on security best practices, including encryption, authentication, and authorization.
-- 💬 **Client & Project Management:** Leading projects from planning to execution while ensuring seamless communication with clients.
+I'm a backend developer and co-founder of **Spider Tech Co.** with **6+ years** of hands-on experience building scalable, secure, and efficient systems for fintech, e-commerce, healthcare, real estate, education, and marketing.
 
-## 🛠 My Technical Toolbox
+```php
+$gamal = [
+    'role'      => 'Backend Developer & Co-Founder @ Spider Tech Co.',
+    'experience'=> '6+ years',
+    'focus'     => ['APIs', 'System Architecture', 'Security', 'Cloud'],
+    'delivered' => '75+ projects for 130+ clients',
+    'currently' => 'Building AI-powered and real-time applications',
+];
+```
+
+## 🚀 What I Do
 
 | | |
 |---|---|
-| **Languages** | PHP, Node.js, Python, JavaScript, C#, C++ |
-| **Frameworks** | Laravel, Express.js, Django |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
-| **Version Control** | Git, GitHub, GitLab |
-| **Cloud Platforms** | AWS (EC2, S3, Lambda), Azure, DigitalOcean |
-| **CI/CD** | Docker, Jenkins, GitHub Actions |
-| **Testing** | PHPUnit, Postman, Swagger |
-| **Other Tools** | Nginx, Apache, WebSocket, API Gateway |
+| 🔧 **Backend Development** | RESTful APIs, microservices, and complex system architectures |
+| ⚙️ **System Architecture** | Scalable, maintainable designs from day one |
+| 🗃️ **Databases** | Complex data relationships, query optimization, performance tuning |
+| ☁️ **Cloud** | Deploying and scaling on AWS, Azure, and DigitalOcean |
+| 🔒 **Security & Compliance** | Encryption, authentication, authorization, HIPAA-compliant systems |
+| 💬 **Project Leadership** | Taking projects from planning to launch with clear client communication |
 
-## 🌐 Projects I've Worked On
+## 🛠 Tech Stack
 
-- **Fintech Solutions:** Built and maintained secure payment systems, integrating with banking APIs and third-party payment providers like Riyadh Bank and Rajhi Bank.
-- **E-Commerce Platforms:** Developed large-scale e-commerce systems with real-time order tracking, payment gateways, and inventory management features.
-- **Medical Field Applications:** Designed HIPAA-compliant systems with sensitive data handling and encryption protocols.
-- **Other Industries:** Real estate, education, marketing, etc.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,flask,js,nodejs,express,cs,cpp&perline=10" alt="Languages and frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=10" alt="Databases"/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku,docker,nginx,jenkins,githubactions,git,gitlab,postman&perline=11" alt="Cloud and DevOps"/>
+</p>
 
-## 🏆 Key Achievements
+## 💼 Industry Experience
 
-- **Project Leadership:** Successfully led and delivered over 75 projects from conception to launch.
-- **Client Success:** Worked with over 130 clients, ensuring high satisfaction and long-term partnerships.
-- **Technical Innovations:** Introduced automation and optimization strategies that reduced operational costs by 70%.
+- 💳 **Fintech:** Secure payment systems integrated with banking APIs and providers such as Riyadh Bank and Rajhi Bank.
+- 🛒 **E-commerce:** Large-scale platforms with real-time order tracking, payment gateways, and inventory management.
+- 🏥 **Healthcare:** HIPAA-compliant systems with careful handling and encryption of sensitive data.
+- 🏢 **And more:** Real estate, education, marketing, and enterprise management systems.
 
-## 📊 My Work Process
+## 🏆 Highlights
 
-1. 🗣 **Consultation:** Understanding client needs and project scope.
-2. 📝 **Planning & Architecture:** Creating a detailed plan and system architecture for development.
-3. 💻 **Development:** Writing clean, maintainable code with best practices.
-4. ✅ **Testing & QA:** Conducting thorough tests to ensure system reliability and security.
-5. 🚀 **Deployment:** Efficiently deploying solutions with CI/CD pipelines and cloud infrastructure.
-6. 🔧 **Support & Optimization:** Offering post-launch support and optimizing for scalability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-36BCF7?style=for-the-badge" alt="6+ years experience"/>
+  <img src="https://img.shields.io/badge/Projects-75%2B%20delivered-2c5364?style=for-the-badge" alt="75+ projects delivered"/>
+  <img src="https://img.shields.io/badge/Clients-130%2B-203a43?style=for-the-badge" alt="130+ clients"/>
+  <img src="https://img.shields.io/badge/Ops%20cost-%E2%88%9270%25-0f2027?style=for-the-badge" alt="Operational costs reduced by 70%"/>
+</p>
 
-## 🎯 Let's Collaborate
+## 📌 Featured Projects
 
-Whether you're looking for a robust backend solution or an expert to guide your project to success, feel free to reach out to me!
+<p align="center">
+  <a href="https://github.com/gamalkh299/realtime-ai-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=realtime-ai-chat&theme=shadow_blue&hide_border=true" alt="realtime-ai-chat"/></a>
+  <a href="https://github.com/gamalkh299/gpt-content-reviewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=gpt-content-reviewer&theme=shadow_blue&hide_border=true" alt="gpt-content-reviewer"/></a>
+  <a href="https://github.com/gamalkh299/Reverb-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=Reverb-chat&theme=shadow_blue&hide_border=true" alt="Reverb-chat"/></a>
+  <a href="https://github.com/gamalkh299/old-innovation-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamalkh299&repo=old-innovation-platform&theme=shadow_blue&hide_border=true" alt="old-innovation-platform"/></a>
+</p>
 
-## 🌐 Socials
+## 🔄 How I Work
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gamalkh299) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gamalkh299) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gamalkh299) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gamalkh299)
-
-## 💻 Tech Stack
-
-**Languages**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks & Runtimes**
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-
-**Tools**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+**Consult** → **Plan & architect** → **Build clean code** → **Test & QA** → **Deploy via CI/CD** → **Support & optimize**
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamalkh299&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=gamalkh299&theme=shadow_blue&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamalkh299&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamalkh299&theme=shadow_blue&hide_border=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamalkh299&theme=shadow_blue&hide_border=true&layout=compact" height="165" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamalkh299&theme=shadow_blue&hide_border=true" alt="GitHub streak"/>
+</p>
 
----
+## 🤝 Let's Collaborate
 
-[![Visitor count](https://visitcount.itsvg.in/api?id=gamalkh299&icon=0&color=0)](https://visitcount.itsvg.in)
+Looking for a robust backend or someone to guide your project to success? [Reach out on LinkedIn](https://linkedin.com/in/gamalkh299). I'm always happy to talk.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt=""/>
