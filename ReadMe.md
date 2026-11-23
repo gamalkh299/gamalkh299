@@ -22,24 +22,11 @@ Full-stack developer and team lead with **6+ years** delivering secure, scalable
 
 ### Experience
 
-| Period | Role | Company | Highlights |
-|:--|:--|:--|:--|
-| **2025 – now** | **Full-Stack Developer** | Adaa Consulting · Crown Prince's Office, Fujairah | Leading **Tarasol** government platform · UAE Pass SSO · AI Arabic transcription · microservices |
-| 2025 | Backend Developer | Websters.ae | Twill CMS for a GCC platform · Lighthouse & SEO gains · ASP.NET APIs |
-| 2024 – 2025 | Backend Developer | LOT.SA *(remote)* | IT ticketing system · server & Cloudflare security |
-| 2023 | **Backend Team Lead** | Beseech Co. | Led **5 developers** · **+30%** transaction speed |
-| 2021 – 2024 | Backend Developer | Spider Tech Co. | Fintech, e-commerce & healthcare · **−30%** query time |
-| 2020 | Backend Developer | 4th Pyramids Co. · Freelance | E-commerce backends · payment gateways |
+<img src="assets/experience.svg" width="100%" alt="Experience: Full-Stack Developer at Adaa Consulting for the Crown Prince's Office, Fujairah (2025 to now), leading the Tarasol government platform with UAE Pass SSO, AI Arabic transcription and microservices. Backend Developer at Websters.ae (2025). Backend Developer at LOT.SA, remote (2024 to 2025). Backend Team Lead at Beseech Co. (2023), led 5 developers, 30% faster transactions. Backend Developer at Spider Tech Co. (2021 to 2024), fintech, e-commerce and healthcare, 30% lower query time, HIPAA. Backend Developer at 4th Pyramids Co. and freelance (2020)."/>
 
 ### Selected Projects
 
-| Project | What I did |
-|---|---|
-| **Tarasol** · Government, UAE | Correspondence & meetings platform with Arabic RTL, UAE Pass SSO, AI transcription, and OnlyOffice collaboration |
-| **Real-estate investment platform** · Saudi Arabia | Led the backend team; integrated government and banking services: Absher, Riyadh Bank B2B (MT940), Zoho Books |
-| **Standing Committee on International Law** · Saudi Arabia | Official government website; led backend development |
-| **Eyadda** · Healthcare | Platform connecting doctors, patients, hospitals, and labs around centralized health records (Laravel) |
-| **Premium Ticket** · Events | Event-ticketing platform; led the backend team and third-party integrations |
+<img src="assets/projects.svg" width="100%" alt="Selected projects: Tarasol, a UAE government correspondence and meetings platform (Django, Next.js, UAE Pass, OnlyOffice). Real-estate investment platform in Saudi Arabia integrating Absher, Riyadh Bank B2B and Zoho Books. Standing Committee on International Law website, Saudi Arabia. Eyadda healthcare platform (HIPAA). Premium Ticket event ticketing. ZI DESK IT ticketing with Twilio."/>
 
 <sub>Most of this work is under NDA, so the code lives in private repositories.</sub>
 
