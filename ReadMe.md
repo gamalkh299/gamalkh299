@@ -1,7 +1,7 @@
-<img src="assets/header.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Enterprise & FinTech Systems"/>
+<img src="assets/header.svg" width="100%" alt="Gamal Khaled — Full-Stack Developer, Government, Enterprise & FinTech Systems"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+turn+complex+business+processes+into+reliable+software;Enterprise+platforms+%E2%80%A2+Financial+systems+%E2%80%A2+AI+apps;6%2B+years+shipping+production+systems" alt="I turn complex business processes into reliable software"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+turn+complex+business+processes+into+reliable+software;Government+%E2%80%A2+Enterprise+%E2%80%A2+Financial+systems;6%2B+years+shipping+production+systems" alt="I turn complex business processes into reliable software"/></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### About
 
-I'm a **full-stack developer with 6+ years of experience** designing and building the systems organizations run on: strategy and performance platforms, financial-sector solutions, and AI-powered, real-time applications.
+I'm a **full-stack developer with 6+ years of experience** designing and building the systems organizations run on: digital platforms for government entities, strategy and performance systems, financial-sector solutions, and AI-powered, real-time applications.
 
 I work across the whole stack, from data modeling and secure APIs to clean, bilingual interfaces, and I care about software that is **secure, maintainable, and built to scale**.
 
@@ -26,6 +26,7 @@ I work across the whole stack, from data modeling and secure APIs to clean, bili
 
 | | |
 |---|---|
+| **Government Sector** | Digital platforms for government entities: strategic planning and performance management, KPI and initiative tracking, innovation programs, and quality management, with Arabic / English interfaces, role-based access, and executive dashboards |
 | **Enterprise Platforms** | Strategy & KPI management, initiative tracking, consulting and project management systems with role-based dashboards and reporting |
 | **Financial Sector** | Unified performance, innovation, and QMS platforms for financial institutions; secure bank and payment-gateway integrations |
 | **AI & Real-Time** | OpenAI / LangChain-powered features, live chat and notifications over WebSockets and Laravel Reverb |
@@ -67,7 +68,7 @@ I work across the whole stack, from data modeling and secure APIs to clean, bili
 
 ### Let's Work Together
 
-Have a platform to build, a system to modernize, or a role to fill? I'd love to hear about it.
+Have a government or enterprise platform to build, a system to modernize, or a role to fill? I'd love to hear about it.
 
 <p align="center">
   <a href="mailto:gamalkh299@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-gamalkh299%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email"/></a>
