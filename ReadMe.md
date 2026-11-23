@@ -22,25 +22,14 @@ Full-stack developer and team lead with **6+ years** delivering secure, scalable
 
 ### Experience
 
-**Full-Stack Developer** · Adaa Consulting → Crown Prince's Office, Fujairah · *2025 – present*
-- Leading development of **Tarasol**, a government platform for official correspondence, meetings, decisions, and task tracking.
-- Architected microservices including **UAE Pass SSO**, correspondence, and meeting-management modules (Django REST Framework + Next.js 14 / TypeScript).
-- Built **AI meeting transcription & summarization** with Arabic speech-to-text and speaker diarization (Groq Whisper).
-- Delivered real-time document co-editing on official templates via **WOPI / OnlyOffice**; run PostgreSQL, Redis, Docker, and CI/CD for multi-service deployment.
-
-**Backend Developer** · Websters.ae · *2025*
-- Customized Twill CMS for a GCC home-services platform; improved Lighthouse scores for performance, SEO, and accessibility; extended ASP.NET APIs.
-
-**Backend Developer** · LOT.SA (remote) · *2024 – 2025*
-- Built an IT ticketing system with real-time updates; managed WHM servers and Cloudflare security, DNS, and DDoS protection.
-
-**Backend Developer** · Spider Tech Co. · *2021 – 2024*
-- Delivered fintech, e-commerce, and healthcare projects (including HIPAA-compliant systems); **cut query execution times by 30%** through database optimization.
-
-**Backend Team Lead** · Beseech Co. · *2023*
-- Led **5 developers** on a fintech platform's backend architecture; **improved transaction processing speed by 30%**.
-
-<sub>Earlier: backend developer at 4th Pyramids Co. and freelance (2020): e-commerce backends and payment-gateway integrations.</sub>
+| Period | Role | Company | Highlights |
+|:--|:--|:--|:--|
+| **2025 – now** | **Full-Stack Developer** | Adaa Consulting · Crown Prince's Office, Fujairah | Leading **Tarasol** government platform · UAE Pass SSO · AI Arabic transcription · microservices |
+| 2025 | Backend Developer | Websters.ae | Twill CMS for a GCC platform · Lighthouse & SEO gains · ASP.NET APIs |
+| 2024 – 2025 | Backend Developer | LOT.SA *(remote)* | IT ticketing system · server & Cloudflare security |
+| 2023 | **Backend Team Lead** | Beseech Co. | Led **5 developers** · **+30%** transaction speed |
+| 2021 – 2024 | Backend Developer | Spider Tech Co. | Fintech, e-commerce & healthcare · **−30%** query time |
+| 2020 | Backend Developer | 4th Pyramids Co. · Freelance | E-commerce backends · payment gateways |
 
 ### Selected Projects
 
